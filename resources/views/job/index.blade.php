@@ -1,3 +1,4 @@
+<x-layout>
 <div>
     <h1>Job Number 2</h1>
 
@@ -9,3 +10,5 @@
     
     @endforeach
 </div>
+
+</x-layout>
